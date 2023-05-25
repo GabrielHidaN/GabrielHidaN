@@ -7,4 +7,4 @@
 </div>
 <br>
 
-
+![Snake animation](https://github.com/GabrielHidaN/GabrielHidaN/blob/output/github-contribution-grid-snake.svg)
