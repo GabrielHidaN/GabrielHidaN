@@ -1,5 +1,8 @@
 <h1 align="center">Hi Guys, I'am Gabriel Victor 👋
 
+<br>
+
+<p>discover some of my projects in my public repository</p>
 
 <div>
   <br>
