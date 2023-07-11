@@ -2,7 +2,7 @@
 
 <br>
 
-<p>discover some of my projects in my public repository</p>
+<p>discover some of my projects in my public repository :)</p>
 
 <div>
   <br>
