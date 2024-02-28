@@ -6,15 +6,15 @@
   I'm 20 years old, I'm a technology enthusiast and I'm currently majoring in Computer Science.
 </div>
 <div>
-  <a href ="https://www.linkedin.com/in/gabriel-victor-a8b6a0206/" target="_blank" >
+  <a href ="https://www.linkedin.com/in/gabriel-victor-a8b6a0206/"  >
     <img   height="20px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-   <a href ="https://www.instagram.com/gvictorbf/" target="_blank" >
+   <a href ="https://www.instagram.com/gvictorbf/"  >
     <img   height="20px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 
-<a href ="https://www.reddit.com/user/GabrielHidaN/" target="_blank" >
+<a href ="https://www.reddit.com/user/GabrielHidaN/" >
     <img   height="20px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
   
