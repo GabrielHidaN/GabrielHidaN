@@ -1,10 +1,11 @@
-<h1 align="center">Hi Guys, I'am Gabriel Victor 👋
+## Hi Guys, I'am Gabriel Victor 👋
 
 <br>
 
 <div>
-  I'm 20 years old, I'm a technology enthusiast and I'm currently majoring in Computer Science.
+I'm 20 years old, I'm a technology enthusiast and I'm currently majoring in Computer Science.
 </div>
+<br>
 <div>
   <a href ="https://www.linkedin.com/in/gabriel-victor-a8b6a0206/"  >
     <img   height="20px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
