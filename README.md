@@ -62,9 +62,3 @@ I'm 20 years old, I'm a technology enthusiast and I'm currently majoring in Comp
 </div>
 
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
