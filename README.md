@@ -3,7 +3,7 @@
 <br>
 
 <div>
-I'm 20 years old, I'm a technology enthusiast and I'm currently majoring in Computer Science.
+I'm 21 years old, I'm a technology enthusiast and I'm currently majoring in Computer Science.
 </div>
 <br>
 <div>
