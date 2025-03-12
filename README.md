@@ -43,6 +43,7 @@ I'm 21 years old, I'm a technology enthusiast and I'm currently majoring in Comp
     <img   height="20px" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=whit"/>
     <img   height="20px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
     <img   height="20px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img  height="20px" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   </div>
 </div>
 <br>
