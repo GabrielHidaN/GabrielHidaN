@@ -1,12 +1,17 @@
-## Hi Guys, I'am Gabriel Victor 👋
 
-<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<div>
-I'm 21 years old, I'm a technology enthusiast and I'm currently majoring in Computer Science.
-</div>
-<br>
-<div>
+<p align="left"> 
+  Hi Guys, I'am Gabriel Victor 👋</strong>.<br/>
+  <br/>
+  I'm 21 years old, I'm a technology enthusiast and I'm currently majoring in Computer Science.
+</p>
+
+
+
+
+<p align="left">
+ 
   <a href ="https://www.linkedin.com/in/gabriel-victor-a8b6a0206/"  >
     <img   height="20px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -19,7 +24,10 @@ I'm 21 years old, I'm a technology enthusiast and I'm currently majoring in Comp
     <img   height="20px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
   
-</div>
+</p>
+
+
+
 
 <div>
   <hr>
