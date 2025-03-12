@@ -1,11 +1,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Hi Guys, I'am Gabriel Victor 👋</strong>.<br/>
+<h3 align="left"> 
+   Hi Guys, I'am Gabriel Victor 👋</strong>.<br/>
   <br/>
   I'm 21 years old, I'm a technology enthusiast and I'm currently majoring in Computer Science.
-</p>
+</h3>
 
 
 
@@ -31,7 +31,7 @@
 
 <div>
   <hr>
-📋 My favorite Languages
+<h4>📋  My favorite Languages</h4>
 <div>
   <br>
   <img   height="25px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
@@ -45,7 +45,7 @@
 <br>
 
 <div>
-📚 Frameworks, Platforms and Libraries
+<h4>Frameworks, Platforms and Libraries</h4>📚 
   <div>
     <br>
     <img   height="25px" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=whit"/>
@@ -56,7 +56,7 @@
 </div>
 <br>
 <div>
-<p>OS</p>
+<h4>OS</h4>
   <div>
     <img   height="25px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     <img   height="25px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
