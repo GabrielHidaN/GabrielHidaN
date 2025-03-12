@@ -6,11 +6,6 @@
   <br/>
   I'm 21 years old, I'm a technology enthusiast and I'm currently majoring in Computer Science.
 </h3>
-
-
-
-
-<p align="left">
  
   <a href ="https://www.linkedin.com/in/gabriel-victor-a8b6a0206/"  >
     <img   height="25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -25,9 +20,6 @@
   </a>
   
 </p>
-
-
-
 
 <div>
   <hr>
@@ -45,7 +37,7 @@
 <br>
 
 <div>
-<h4>Frameworks, Platforms and Libraries</h4>📚 
+<h4>📚 Frameworks and Libraries</h4> 
   <div>
     <br>
     <img   height="25px" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=whit"/>
@@ -55,6 +47,7 @@
   </div>
 </div>
 <br>
+
 <div>
 <h4>OS</h4>
   <div>
@@ -62,6 +55,7 @@
     <img   height="25px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   </div>
 </div>
+
 <hr>
 
 
@@ -70,5 +64,7 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHidaN&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHidaN&layout=compact&langs_count=16&theme=merko"/>
 </div>
+
+
 
 
