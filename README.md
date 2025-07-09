@@ -8,8 +8,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,spring,javascript,django,react,angular,mysql)](https://skillicons.dev)
 
-
-
 <div>
   <div>
     <img   height="25px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
