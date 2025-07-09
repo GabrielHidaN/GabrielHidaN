@@ -6,7 +6,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,spring,javascript,django,react,angular,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,javascript,react,angular,mysql)](https://skillicons.dev)
 
 <div>
   <div>
