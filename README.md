@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="400px" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="400px" width="200px" align="right">
 <p> 🇧🇷 Lived in Brasil
 <p>👨‍💻 Software Engineer Full-Stack</p>
 <p>🎓 Computation Science student</p>
