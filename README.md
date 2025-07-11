@@ -7,13 +7,9 @@
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,javascript,bootstrap,react,angular,mysql,git,docker,aws)](https://skillicons.dev)
+<hr>
 
-<div>
-  <div>
-    <img   height="25px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-    <img   height="25px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  </div>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 <hr>
 
