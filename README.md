@@ -10,14 +10,16 @@
 <p>👨‍💻 Software Engineer Full-Stack</p>
 <p>🎓 Computation Science student</p>
 
-<hr>
+<h1></h1>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,javascript,bootstrap,react,angular,mysql,git,docker,aws)](https://skillicons.dev)
-<hr>
+
+<h1></h1>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 <hr>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=GabrielHidaN&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
@@ -28,6 +30,8 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHidaN&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHidaN&layout=compact&langs_count=16&theme=merko"/>
 </div>
+
+<hr>
 
 <br>
 <picture>
