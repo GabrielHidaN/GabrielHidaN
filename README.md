@@ -5,6 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="400px" width="200px" align="right">
 <h3 align="left">👩‍💻  About Me</h3>
+<p> My name is Gabriel Victor </p>
 <p> 🇧🇷 Lived in Brasil
 <p>👨‍💻 Software Engineer Full-Stack</p>
 <p>🎓 Computation Science student</p>
