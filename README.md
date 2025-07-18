@@ -12,7 +12,7 @@
 
 <h1></h1>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,javascript,bootstrap,react,angular,mysql,git,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,javascript,bootstrap,react,angular,mysql,git)](https://skillicons.dev)
 
 <h1></h1>
 
