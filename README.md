@@ -5,7 +5,8 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="400px" width="200px" align="right">
+<img src="octocat-1753132025075.png" min-width="200px" max-width="400px" width="300px" align="right">
+<br><br><br>
 <h3 align="left">👩‍💻  About Me</h3>
 <p> 🇧🇷 Lived in Brasil
 <p>👨‍💻 Software Engineer Full-Stack</p>
