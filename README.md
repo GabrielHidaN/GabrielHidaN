@@ -5,7 +5,7 @@
 </div>
 
 
-<img src="octocat-1753132025075.png" min-width="200px" max-width="400px" width="300px" align="right">
+<img src="octocat.png" min-width="200px" max-width="400px" width="300px" align="right">
 <br><br><br>
 <h3 align="left">👩‍💻  About Me</h3>
 <p> 🇧🇷 Lived in Brasil
@@ -23,14 +23,14 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=GabrielHidaN&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=GabrielHidaN&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="120" alt="trophy graph"  />
 </div>
 
 
 <div>
   <br>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHidaN&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHidaN&layout=compact&langs_count=16&theme=radical"/>
+  <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=GabrielHidaN&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHidaN&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <hr>
