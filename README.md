@@ -4,7 +4,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 <p> 🇧🇷 Lived in Brasil
-<p>👨‍💻 Software Engineer Full-Stack</p>
+<p>👨‍💻 Software Engineer</p>
 <p>🎓 Computation Science student</p>
 
 
