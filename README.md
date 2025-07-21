@@ -1,17 +1,18 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
-
   <h2>Hi 👋! My name is Gabriel Victor</h2>
 </div>
 
 <img src="octocat.png" min-width="200px" max-width="400px" width="200px" align="right">
-<br><br><br>
+<br><br>
+
 <h3 align="left">👩‍💻  About Me</h3>
 <p> 🇧🇷 Lived in Brasil
 <p>👨‍💻 Software Engineer Full-Stack</p>
 <p>🎓 Computation Science student</p>
 
+
 <h1></h1>
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="130" align="right">
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,javascript,bootstrap,react,angular,mysql,git,linux)](https://skillicons.dev)
 <h1></h1>
