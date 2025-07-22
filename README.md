@@ -19,13 +19,17 @@
 </div>
 
 
-## 👤 &nbsp;About Me
-<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="180" align="right">
+```java
+public class AboutMe {
 
-- 🇧🇷 Lived in Brasil
-- 🎓 Currently studying Computer Science
+    static final String NAME = "Gabriel Victor";
+    static final String BIO = "Back-End developer in love with problem solving.";
+    static final String[] LANGUAGES = { "Java", "Python", "JavaScript", "C" , "GO"};
+    static final String EDUCATION = "Student of computer science.";
+    static final String LOCAL = "Pernambuco, Brasil";
+}
 
-
+```
 ## 💬 &nbsp;My social networks
 <a href = "gabriel.victorbarbosa2024@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-67cb57?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
 <a href = "https://www.instagram.com/gvictorbf/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-67cb57?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
