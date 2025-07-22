@@ -24,8 +24,6 @@
 
 - 🇧🇷 Lived in Brasil
 - 🎓 Currently studying Computer Science
-- 💻 Experienced with Java, Python & web projects
-
 
 
 ## 💬 &nbsp;My social networks
