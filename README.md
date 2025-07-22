@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Gabriel Victor</h2>
+<h2 align="center">Hi Guys👋! My name is Gabriel Victor</h2>
 <img src="octocat.png" min-width="200px" max-width="400px" width="150px" align="right">
 <br><br>
 
