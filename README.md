@@ -26,7 +26,7 @@
 - 🎓 Currently studying Computer Science
 - 💻 Experienced with Java, Python & web projects
 
-<hr>
+
 
 ## 💬 &nbsp;My social networks
 <a href = "gabriel.victorbarbosa2024@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-67cb57?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
