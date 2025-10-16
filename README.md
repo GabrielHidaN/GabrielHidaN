@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Victor;I'm+a+Computer+Science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Gabriel Victor github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielHidaN&bg_color=000000&color=00FF41&line=ffffff&point=ffffff&area=true&area_color=00FF41&hide_border=true)](https://github.comGabrielHidaN/)
+
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=GabrielHidaN&theme=matrix&bg_color=9d0208&row=2&no-bg=true&column=3&color=9d0208&margin-w=15&margin-h=15" />
