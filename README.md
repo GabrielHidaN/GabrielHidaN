@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Victor;I'm+a+Computer+Science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Victor;I'm+a+Computer+Science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=GabrielHidaN&theme=matrix&bg_color=9d0208&row=2&no-bg=true&column=3&color=9d0208&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=GabrielHidaN&theme=algolia&bg_color=9d0208&row=2&no-bg=true&column=3&color=9d0208&margin-w=15&margin-h=15" />
 </p>
 
 <div id="toc">
@@ -31,10 +31,10 @@ public class AboutMe {
 
 ```
 ## 💬 &nbsp;My social networks
-[<img src="https://img.shields.io/badge/-Gmail-008F11?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail">](mailto:gabriel.victorbarbosa2024@gmail.com)
-[<img src="https://img.shields.io/badge/-Instagram-008F11?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram">](https://www.instagram.com/gvictorbf/)
-[<img src="https://img.shields.io/badge/-LinkedIn-008F11?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn">](https://www.linkedin.com/in/dev-gabriel-victor/)
-[<img src="https://img.shields.io/badge/-Reddit-008F11?style=for-the-badge&logo=reddit&logoColor=black" alt="Reddit">](https://www.reddit.com/user/GabrielHidaN/)
+[<img src="https://img.shields.io/badge/-Gmail-0000FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail">](mailto:gabriel.victorbarbosa2024@gmail.com)
+[<img src="https://img.shields.io/badge/-Instagram-0000FF?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram">](https://www.instagram.com/gvictorbf/)
+[<img src="https://img.shields.io/badge/-LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn">](https://www.linkedin.com/in/dev-gabriel-victor/)
+[<img src="https://img.shields.io/badge/-Reddit-0000FF?style=for-the-badge&logo=reddit&logoColor=black" alt="Reddit">](https://www.reddit.com/user/GabrielHidaN/)
 
 
 <picture>
@@ -69,10 +69,10 @@ public class AboutMe {
 
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=GabrielHidaN&color=00FF41" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=GabrielHidaN&color=0000FF" alt="Profile views" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
 
 
 
