@@ -4,9 +4,6 @@
 
 
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=GabrielHidaN&theme=algolia&bg_color=9d0208&row=2&no-bg=true&column=3&color=9d0208&margin-w=15&margin-h=15" />
-</p>
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -30,18 +27,18 @@ public class AboutMe {
 }
 
 ```
+
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=GabrielHidaN&theme=algolia&bg_color=9d0208&row=2&no-bg=true&column=3&color=9d0208&margin-w=15&margin-h=15" />
+</p>
+
 ## 💬 &nbsp;My social networks
 [<img src="https://img.shields.io/badge/-Gmail-0000FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail">](mailto:gabriel.victorbarbosa2024@gmail.com)
 [<img src="https://img.shields.io/badge/-Instagram-0000FF?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram">](https://www.instagram.com/gvictorbf/)
 [<img src="https://img.shields.io/badge/-LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn">](https://www.linkedin.com/in/dev-gabriel-victor/)
 [<img src="https://img.shields.io/badge/-Reddit-0000FF?style=for-the-badge&logo=reddit&logoColor=black" alt="Reddit">](https://www.reddit.com/user/GabrielHidaN/)
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielHidaN/GabrielHidaN/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielHidaN/GabrielHidaN/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielHidaN/GabrielHidaN/output/pacman-contribution-graph.svg">
-</picture>
 
 
 ## 🛠 &nbsp;Languages & Techs
