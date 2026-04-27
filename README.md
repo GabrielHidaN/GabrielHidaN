@@ -21,7 +21,7 @@ public class AboutMe {
 
     static final String NAME = "Gabriel Victor";
     static final String BIO = "Back-End developer in love with problem solving.";
-    static final String[] LANGUAGES = { "Java", "Python", "JavaScript", "C" , "GO"};
+    static final String[] LANGUAGES = { "Java", "Python", "JavaScript", "C" };
     static final String EDUCATION = "Student of computer science.";
     static final String LOCAL = "Pernambuco, Brasil";
 }
@@ -44,7 +44,7 @@ public class AboutMe {
 ## 🛠 &nbsp;Languages & Techs
 
 ### Languages
-[![My Languages](https://skillicons.dev/icons?i=java,python,javascript,c,go)](https://github.com/GabrielHidaN)
+[![My Languages](https://skillicons.dev/icons?i=java,python,javascript,c)](https://github.com/GabrielHidaN)
 
 ### Frameworks
 [![My Frameworks](https://skillicons.dev/icons?i=spring,django,react,angular,bootstrap)](https://github.com/GabrielHidaN)
